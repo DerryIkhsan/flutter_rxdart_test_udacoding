@@ -1,6 +1,6 @@
 # udacoding_rxdart_flutter_pattern
 
-A new Flutter project.
+A new Flutter project. Flutter Version 1.2.1
 
 ## Getting Started
 
